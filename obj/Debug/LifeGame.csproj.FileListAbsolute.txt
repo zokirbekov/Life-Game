@@ -1,0 +1,10 @@
+c:\users\user\source\repos\LifeGame\LifeGame\bin\Debug\LifeGame.exe.config
+c:\users\user\source\repos\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+c:\users\user\source\repos\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.Form1.resources
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.Properties.Resources.resources
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.GenerateResource.cache
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.exe
+c:\users\user\source\repos\LifeGame\LifeGame\obj\Debug\LifeGame.pdb
